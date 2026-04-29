@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 443,
-    "timeDay": 155,
-    "timeWeek": 315,
-    "timeMonth": 373,
-    "timeYear": 384,
+    "timeDay": 528,
+    "timeWeek": 316,
+    "timeMonth": 388,
+    "timeYear": 385,
     "dailyMinutesDown": {
       "2025-10-01": 16,
       "2025-09-04": 30,
@@ -28,18 +28,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/tlabs.link.ico",
     "slug": "url-shortner-tlabs-link",
     "status": "down",
-    "uptime": "98.17%",
+    "uptime": "98.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "45.20%",
-    "uptimeYear": "95.39%",
+    "uptimeMonth": "41.92%",
+    "uptimeYear": "95.12%",
     "time": 449,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 497,
     "timeYear": 482,
     "dailyMinutesDown": {
-      "2026-04-28": 235,
+      "2026-04-29": 232,
+      "2026-04-28": 1440,
       "2026-04-27": 1440,
       "2026-04-26": 1440,
       "2026-04-25": 1440,
@@ -77,11 +78,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "92.66%",
     "uptimeMonth": "97.58%",
-    "uptimeYear": "96.65%",
+    "uptimeYear": "96.67%",
     "time": 49,
-    "timeDay": 40,
-    "timeWeek": 45,
-    "timeMonth": 48,
+    "timeDay": 61,
+    "timeWeek": 47,
+    "timeMonth": 50,
     "timeYear": 47,
     "dailyMinutesDown": {
       "2026-04-26": 524,
@@ -112,8 +113,7 @@
       "2025-07-01": 1440,
       "2025-06-30": 210,
       "2025-06-17": 37,
-      "2025-05-01": 486,
-      "2025-04-29": 214
+      "2025-05-01": 486
     }
   },
   {
@@ -125,13 +125,13 @@
     "uptime": "0.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "91.50%",
-    "uptimeMonth": "95.00%",
+    "uptimeMonth": "95.50%",
     "uptimeYear": "0.00%",
     "time": 1089,
-    "timeDay": 809,
-    "timeWeek": 2831,
-    "timeMonth": 1239,
-    "timeYear": 1201,
+    "timeDay": 939,
+    "timeWeek": 2872,
+    "timeMonth": 1236,
+    "timeYear": 1208,
     "dailyMinutesDown": {
       "2026-04-26": 583,
       "2026-04-25": 216,
@@ -210,8 +210,7 @@
       "2025-06-26": 923,
       "2025-06-17": 37,
       "2025-05-09": 313,
-      "2025-05-01": 514,
-      "2025-04-29": 296
+      "2025-05-01": 514
     }
   },
   {
@@ -220,15 +219,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/onlyoffice.tcloud.dev.ico",
     "slug": "cloud-services-onlyoffice",
     "status": "up",
-    "uptime": "77.68%",
+    "uptime": "77.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "92.08%",
-    "uptimeMonth": "74.74%",
-    "uptimeYear": "55.69%",
+    "uptimeMonth": "76.93%",
+    "uptimeYear": "55.72%",
     "time": 1376,
-    "timeDay": 318,
-    "timeWeek": 2648,
-    "timeMonth": 1555,
+    "timeDay": 343,
+    "timeWeek": 2644,
+    "timeMonth": 1507,
     "timeYear": 1802,
     "dailyMinutesDown": {
       "2026-04-26": 582,
@@ -408,8 +407,7 @@
       "2025-06-22": 492,
       "2025-06-17": 37,
       "2025-05-09": 377,
-      "2025-05-01": 502,
-      "2025-04-29": 252
+      "2025-05-01": 502
     }
   },
   {
@@ -424,9 +422,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 565,
-    "timeDay": 684,
-    "timeWeek": 632,
-    "timeMonth": 553,
+    "timeDay": 574,
+    "timeWeek": 621,
+    "timeMonth": 558,
     "timeYear": 587,
     "dailyMinutesDown": {
       "2025-11-18": 73,
@@ -446,9 +444,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 323,
-    "timeDay": 365,
-    "timeWeek": 365,
-    "timeMonth": 328,
+    "timeDay": 286,
+    "timeWeek": 358,
+    "timeMonth": 323,
     "timeYear": 329,
     "dailyMinutesDown": {
       "2025-11-18": 60,
@@ -464,13 +462,13 @@
     "uptime": "94.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "92.70%",
-    "uptimeMonth": "80.37%",
-    "uptimeYear": "87.48%",
+    "uptimeMonth": "82.57%",
+    "uptimeYear": "87.54%",
     "time": 972,
-    "timeDay": 284,
-    "timeWeek": 2226,
-    "timeMonth": 1882,
-    "timeYear": 1229,
+    "timeDay": 362,
+    "timeWeek": 2239,
+    "timeMonth": 1846,
+    "timeYear": 1191,
     "dailyMinutesDown": {
       "2026-04-26": 521,
       "2026-04-25": 216,
@@ -541,8 +539,7 @@
       "2025-06-26": 922,
       "2025-06-17": 37,
       "2025-05-09": 376,
-      "2025-05-01": 502,
-      "2025-04-29": 251
+      "2025-05-01": 502
     }
   }
 ]

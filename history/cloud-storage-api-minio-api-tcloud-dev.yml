@@ -1,7 +1,7 @@
 url: https://minio-api.tcloud.dev/minio/health/live
 status: up
 code: 200
-responseTime: 184
-lastUpdated: 2026-10-07T01:55:11.911Z
+responseTime: 250
+lastUpdated: 2026-10-08T02:22:53.427Z
 startTime: 2023-08-18T06:41:26.000Z
 generator: Upptime <https://github.com/upptime/upptime>
